@@ -1,6 +1,6 @@
-PASS_API
+PASSPORT_RF
 Содержимое:
-файл pass_api.py - основной файл модуля. в нем одна фунция 
+файл passport_rf.py - основной файл модуля. в нем одна фунция 
  '''
   run: Определяет объекты на фотографиях паспортов РФ 
   Классифицирует на 12 классов: фото владельца - 0, подразделение выдавшее паспорт 1, дата выдачи -2, номер подразделения 3,
@@ -35,8 +35,5 @@ PASS_API
 - 61 проверочный сет
 - 31 тестовый сет
 
-Ссылки:
-	Папка с тестовой фотографией и результатами обработки: https://drive.google.com/drive/folders/1kqheSHU6G_DN3ZDFly8QjrSBswjgS2IC?usp=sharing
-	Обучающий ноут: https://colab.research.google.com/drive/1e9uODY8oIteRnEbXpQtIyMq1I8XuvjY9?usp=sharing
-	Тестовый ноут: https://colab.research.google.com/drive/1Vn3tZWMPiwUNED5Eh57RYO0_WhIdzzw1?usp=sharing
+
 	
