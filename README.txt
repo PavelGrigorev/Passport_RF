@@ -30,7 +30,7 @@
 	test/in_image - тестовые фото
 	test/result - результат обработки
 *Поскольку изображения содержат приватные данные, я не могу их выложить в открытый репозиторий*
-Test you image Here:
+Test your image Here:
 
 
 [Module demonstration](https://demo.neural-university.ru/pass-od.html) 
